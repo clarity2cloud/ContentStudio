@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+
+# Logs
+*.txt
+logs/
+myenv/
+
+.claude/
+
+storage/
+
+TODO.md
+src/
+Advanced-Prompt-Generator/
+
+.opencode/
+AGENTS.md
+graphify-out/
+
+
+
+API_EXAMPLES.md
+NEW_TEMPLATES_SUMMARY.md
+TEMPLATES_GUIDE.md
+# Test runtime artifacts (logs, JWTs, IDs)
+tests_runtime/*.log
+tests_runtime/*.txt
+tests_runtime/*.json
+tests_runtime/
